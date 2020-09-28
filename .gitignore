@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Books pdf
+learn_c_the_hard_way.pdf
+Professional_C++_by_Marc_Gregoire.pdf
+
+.DS_Store
